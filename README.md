@@ -1,26 +1,55 @@
-# Shay Henderson
+# 👋 Hi, I'm Shay Henderson
 
 **Software and Infrastructure Engineer**  
 Building reliable and scalable systems across web and cloud.
 
 ---
 
-### About Me
-I’m experienced across software development, cloud infrastructure, and support engineering. I focus on reliability, QA, and clear documentation that helps teams and users succeed.
+### 🧠 About Me
+I’m experienced across software development, cloud infrastructure, and technical support engineering.  
+I focus on reliability, QA, and clear documentation that helps teams and users succeed.  
 
-### Key Experience
-- **JPG Store** – Led the development of the Help Center, writing over 150 technical and support articles read by more than 60,000 users each year. Integrated Intercom for AI-assisted support and measurable analytics.
-- **MacDIT** – Delivered IT infrastructure and support solutions across Microsoft 365, Active Directory, and PowerShell scripting.
+My experience spans full-stack web development, cloud deployment, and infrastructure management, with a focus on improving operational efficiency and user experience.
 
-### Skills
-TypeScript • JavaScript • Next.js • React • Google Cloud Platform • Cloudflare  
-Windows & Linux Administration • PowerShell • Bash • QA & Documentation • Intercom • GitHub
+---
 
-### Certifications
-- GitHub Administration (Microsoft)  
-- GitHub Foundations (GitHub)
+### 🧩 Key Experience
 
-### Contact
-🌐 [shayhenderson.dev](https://www.shayhenderson.dev)  
-💼 [LinkedIn](https://www.linkedin.com/in/shay-henderson/)  
-📧 ShayHendo172@gmail.com
+**QA & Support Engineer – [JPG Store](https://www.jpg.store)**  
+- Led the development of the JPG Store Help Center, authoring and maintaining over 150 technical and support articles.  
+- Helped the platform reach more than 60,000 unique readers per year through clear, actionable documentation.  
+- Integrated Intercom for AI-assisted support, workflow automation, and analytics reporting to improve satisfaction and reduce response times.
+
+**IT Support Analyst – MacDIT**  
+- Delivered IT infrastructure and support solutions for enterprise clients.  
+- Managed Microsoft 365, Active Directory, and Azure administration.  
+- Used PowerShell for systems management and maintenance tasks.
+
+---
+
+### 🧰 Technical Skills
+
+**Languages & Frameworks:**  
+TypeScript · JavaScript · HTML · CSS · Bash · PowerShell  
+
+**Frameworks & Tools:**  
+Next.js · React · Astro · GitHub · Intercom · Linear  
+
+**Cloud & Infrastructure:**  
+Google Cloud Platform (GCP) · Cloudflare · Microsoft 365 · Azure  
+
+**Systems & Operations:**  
+Windows · Linux (Ubuntu) · QA Testing · Site Reliability · Incident Management  
+
+---
+
+### 🪪 Certifications
+- **GitHub Administration** — Microsoft  
+- **GitHub Foundations** — GitHub  
+
+---
+
+### 🌐 Contact
+- Portfolio: [shayhenderson.dev](https://www.shayhenderson.dev)  
+- LinkedIn: [linkedin.com/in/shay-henderson](https://www.linkedin.com/in/shay-henderson/)  
+- Email: **ShayHendo172@gmail.com**
