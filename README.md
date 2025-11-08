@@ -52,4 +52,4 @@ Windows · Linux (Ubuntu) · QA Testing · Site Reliability · Incident Manageme
 ### 🌐 Contact
 - Portfolio: [shayhenderson.dev](https://www.shayhenderson.dev)  
 - LinkedIn: [linkedin.com/in/shay-henderson](https://www.linkedin.com/in/shay-henderson/)  
-- Email: **ShayHendo172@gmail.com**
+- Email: **contact@shayhenderson.dev**
