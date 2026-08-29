@@ -14,8 +14,8 @@ Open to full-time, part-time and contract work.
 
 ## Background
 
-- Production operations for jpg.store, a Cardano NFT marketplace with 168k+ users (Sep 2022 to Jun 2026): incident response across GCP and Cloudflare, internal Retool tooling, Next.js frontend work, and a help centre with 150+ articles read by 60k+ people a year.
-- Five years at an MSP on the Microsoft stack: Azure, M365, Exchange Online, Entra ID, Intune, Hyper-V, and PowerShell against the Graph and Azure APIs.
+- Production operations for jpg.store, a Cardano NFT marketplace with 168k+ users (Sep 2022 to Jun 2026): incident response across GCP and Cloudflare, internal Retool dashboards, Next.js frontend work, and a help centre with 150+ articles read by 60k+ people a year.
+- Five years at an MSP on the Microsoft stack: Azure, M365, Exchange Online, Entra ID, Intune, Autopilot, Defender for Endpoint, Hyper-V, and PowerShell against the Graph and Azure APIs.
 - Contract documentation rework and pre-release QA for SecurityBot.
 - Accepted corrections to Microsoft Learn's official AZ-104 and DP-900 course repos.
 
