@@ -8,9 +8,9 @@ Open to full-time, part-time and contract work.
 
 ## Building
 
-- **[Skaldic](https://github.com/HendoBuilds/skaldic)**: desktop app that turns MIDI files into playable Mordhau songs. Open source, Tauri + Rust, with a Windows installer and signed auto-updates.
+- **[Skaldic](https://github.com/shayhenderson/skaldic)**: desktop app that turns MIDI files into playable Mordhau songs. Open source, Tauri + Rust, with a Windows installer and signed auto-updates.
 - **[Foxhole Hub](https://foxholehub.com)**: live war tracker for Foxhole, refreshed from the game's API every ten minutes.
-- **[shayhenderson.dev](https://github.com/HendoBuilds/shayhenderson-dev)**: my portfolio site. Astro + Tailwind, fully static, on Cloudflare Workers.
+- **[shayhenderson.dev](https://github.com/shayhenderson/shayhenderson-dev)**: my portfolio site. Astro + Tailwind, fully static, on Cloudflare Workers.
 
 ## Background
 
